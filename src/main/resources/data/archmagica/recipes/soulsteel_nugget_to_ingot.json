@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "archmagica:soulsteel_nugget"
+        }
+    },
+    "result": {
+        "item": "archmagica:soulsteel_ingot",
+        "count": 1
+    }
+}

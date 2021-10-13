@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "archmagica:orasine_ore"
+    },
+    "result": "archmagica:orasine_ingot",
+    "experience": 0.4,
+    "cookingtime": 200
+}

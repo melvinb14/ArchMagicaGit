@@ -1,0 +1,16 @@
+{
+  "type": "archmagica:alloying",
+  "ingredients": [
+    {
+      "item": "archmagica:mythril_ingot"
+    },
+    {
+      "item": "archmagica:soulsteel_ingot"
+    }
+  ],
+  "result": {
+    "item": "archmagica:ethril_ingot",
+    "count": 1
+  },
+  "experience": 3.0
+}

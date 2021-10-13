@@ -1,0 +1,8 @@
+{
+   "parent": "block/orientable",
+   "textures": {
+       "top": "archmagica:blocks/runic_stone_top",
+       "front": "archmagica:blocks/runic_stone",
+       "side": "archmagica:blocks/runic_stone"
+   }
+}

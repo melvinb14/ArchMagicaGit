@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "archmagica:soulsteel_ingot"
+        }
+    ],
+    "result": {
+        "item": "archmagica:soulsteel_nugget",
+        "count": 9
+    }
+}

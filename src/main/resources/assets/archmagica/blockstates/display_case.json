@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "archmagica:block/display_case", "y": 270 },
+		"facing=south": { "model": "archmagica:block/display_case", "y": 90 },
+		"facing=east": { "model": "archmagica:block/display_case" },
+		"facing=west": { "model": "archmagcia:block/display_case", "y": 180}
+	}
+}

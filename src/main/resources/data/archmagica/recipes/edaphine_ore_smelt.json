@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "archmagica:edaphine_ore"
+    },
+    "result": "archmagica:edaphine_ingot",
+    "experience": 0.8,
+    "cookingtime": 250
+}

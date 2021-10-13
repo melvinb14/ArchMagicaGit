@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "archmagica:magic_crystal"
+        }
+    ],
+    "result": {
+        "item": "archmagica:magic_dust",
+        "count": 9
+    }
+}

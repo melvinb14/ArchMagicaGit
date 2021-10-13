@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "# #",
+        "# #"
+       
+    ],
+    "key": {
+        "#": {
+            "item": "archmagica:celestine_ingot"
+        }
+    },
+    "result": {
+        "item": "archmagica:celestine_boots",
+        "count": 1
+    }
+}

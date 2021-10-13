@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #"
+        
+    ],
+    "key": {
+        "#": {
+            "item": "archmagica:soulsteel_ingot"
+        }
+    },
+    "result": {
+        "item": "archmagica:soulsteel_helmet",
+        "count": 1
+    }
+}

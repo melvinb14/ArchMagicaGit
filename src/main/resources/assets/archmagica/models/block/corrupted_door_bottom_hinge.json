@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "top": "archmagica:blocks/corrupted_door_top",
+    "bottom": "archmagica:blocks/corrupted_door_bottom"
+  }
+}

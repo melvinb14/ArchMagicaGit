@@ -1,0 +1,17 @@
+{
+  "type": "archmagica:corrupted_forest",
+  "config": {
+    "top_material": {
+      "Name": "archmagica:corrupted_grass",
+      "Properties": {
+        "snowy": "false"
+      }
+    },
+    "under_material": {
+      "Name": "minecraft:dirt"
+    },
+    "underwater_material": {
+      "Name": "minecraft:gravel"
+    }
+  }
+}

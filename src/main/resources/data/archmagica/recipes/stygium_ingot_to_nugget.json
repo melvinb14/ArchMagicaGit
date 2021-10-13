@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "archmagica:stygium_ingot"
+        }
+    ],
+    "result": {
+        "item": "archmagica:stygium_nugget",
+        "count": 9
+    }
+}

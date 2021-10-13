@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "archmagica:mythril_ingot"
+        }
+    },
+    "result": {
+        "item": "archmagica:mythril_block",
+        "count": 1
+    }
+}

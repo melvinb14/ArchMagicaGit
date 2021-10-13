@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"cross": "archmagica:blocks/corrupted_sapling"
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i"
+    ],
+    "key": {
+        "i": {
+            "item": "archmagica:awakening_stone5"
+        }
+    },
+    "result": {
+        "item": "archmagica:awakening_stone4",
+        "count": 9
+    }
+}

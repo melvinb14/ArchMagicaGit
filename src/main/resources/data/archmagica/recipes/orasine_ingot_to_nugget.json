@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "archmagica:orasine_ingot"
+        }
+    ],
+    "result": {
+        "item": "archmagica:orasine_nugget",
+        "count": 9
+    }
+}

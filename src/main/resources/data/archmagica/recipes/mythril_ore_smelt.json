@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "archmagica:mythril_ore"
+    },
+    "result": "archmagica:mythril_ingot",
+    "experience": 0.4,
+    "cookingtime": 200
+}

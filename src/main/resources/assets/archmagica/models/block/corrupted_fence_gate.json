@@ -1,0 +1,7 @@
+
+{
+  "parent": "minecraft:block/template_fence_gate",
+  "textures": {
+    "texture": "archmagica:blocks/corrupted_planks"
+  }
+}

@@ -1,0 +1,10 @@
+ {
+	"variants": {
+		"facing=north": { "model": "archmagica:block/fallen_adventurer" },
+		"facing=south": { "model": "archmagica:block/fallen_adventurer", "y": 180},
+		"facing=east": { "model": "archmagica:block/fallen_adventurer", "y": 270 },
+		"facing=west": { "model": "archmagica:block/fallen_adventurer", "y": 90},
+
+	}
+}
+

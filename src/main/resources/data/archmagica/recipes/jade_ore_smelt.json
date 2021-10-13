@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "archmagica:jade_ore"
+    },
+    "result": "archmagica:jade",
+    "experience": 0.4,
+    "cookingtime": 200
+}

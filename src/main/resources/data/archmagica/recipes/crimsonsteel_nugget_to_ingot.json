@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "archmagica:crimsonsteel_nugget"
+        }
+    },
+    "result": {
+        "item": "archmagica:crimsonsteel_ingot",
+        "count": 1
+    }
+}

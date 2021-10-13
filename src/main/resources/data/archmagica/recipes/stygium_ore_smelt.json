@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "archmagica:stygium_ore"
+    },
+    "result": "archmagica:stygium_ingot",
+    "experience": 0.5,
+    "cookingtime": 220
+}

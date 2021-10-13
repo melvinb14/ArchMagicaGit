@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boat",
+  "pattern": [
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "archmagica:corrupted_planks"
+    }
+  },
+  "result": {
+    "item": "archmagica:corrupted_boat"
+  }
+}

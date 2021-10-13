@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "archmagica:block/corrupted_pressure_plate" },
+    "powered=true": { "model": "archmagica:block/corrupted_pressure_plate_down" }
+  }
+}

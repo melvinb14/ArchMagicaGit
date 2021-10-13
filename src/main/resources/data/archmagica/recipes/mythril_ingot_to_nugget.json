@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "archmagica:mythril_ingot"
+        }
+    ],
+    "result": {
+        "item": "arrchmagica:mythril_nugget",
+        "count": 9
+    }
+}

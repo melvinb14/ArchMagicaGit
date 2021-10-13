@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+       "###",
+        "# #"
+        
+    ],
+    "key": {
+        "#": {
+            "item": "archmagica:orasine_ingot"
+        }
+    },
+    "result": {
+        "item": "archmagica:orasine_helmet",
+        "count": 1
+    }
+}

@@ -1,0 +1,9 @@
+ {
+	"variants": {
+		"facing=north": { "model": "archmagica:block/blacksmith_anvil", "y": 180  },
+		"facing=south": { "model": "archmagica:block/blacksmith_anvil"},
+		"facing=east": { "model": "archmagica:block/blacksmith_anvil", "y": 90 },
+		"facing=west": { "model": "archmagica:block/blacksmith_anvil", "y": 270}
+	}
+}
+

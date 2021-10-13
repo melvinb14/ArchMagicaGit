@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #"
+        
+    ],
+    "key": {
+        "#": {
+            "item": "archmagica:stygium_ingot"
+        }
+    },
+    "result": {
+        "item": "archmagica:stygium_helmet",
+        "count": 1
+    }
+}

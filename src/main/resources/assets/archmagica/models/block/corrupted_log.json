@@ -1,0 +1,7 @@
+{
+	"parent": "block/cube_column",
+	"textures": {
+		"end": "archmagica:blocks/corrupted_log_top",
+		"side": "archmagica:blocks/corrupted_log"
+	}
+}

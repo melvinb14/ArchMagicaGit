@@ -1,0 +1,16 @@
+{
+  "type": "archmagica:alloying",
+  "ingredients": [
+    {
+      "item": "archmagica:gold_ingot"
+    },
+    {
+      "item": "archmagica:crimsonsteel_ingot"
+    }
+  ],
+  "result": {
+    "item": "archmagica:orichalgum_ingot",
+    "count": 1
+  },
+  "experience": 3.0
+}

@@ -1,0 +1,15 @@
+ {
+	"variants": 
+	  { 
+	
+		"facing=north": { "model": "archmagica:block/magic_crystal"   },
+		"facing=south": { "model": "archmagica:block/magic_crystal", "y": 180 },
+		"facing=east": { "model": "archmagica:block/magic_crystal", "y": 270 },
+		"facing=west": { "model": "archmagica:block/magic_crystal", "y": 90}
+		
+		
+	}
+}
+
+
+

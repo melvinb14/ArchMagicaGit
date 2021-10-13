@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+       "###",
+        "# #"
+        
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:ingots/steel_ingot"
+        }
+    },
+    "result": {
+        "item": "archmagica:steel_helmet",
+        "count": 1
+    }
+}

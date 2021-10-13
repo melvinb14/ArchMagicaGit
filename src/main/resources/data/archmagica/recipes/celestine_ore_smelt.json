@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "archmagica:celestine_ore"
+    },
+    "result": "archmagica:celestine_ingot",
+    "experience": 0.8,
+    "cookingtime": 250
+}

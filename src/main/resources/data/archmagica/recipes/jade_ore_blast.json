@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "archmagica:jade_ore"
+    },
+    "result": "archmagica:jade",
+    "experience": 0.6,
+    "cookingtime": 150
+}

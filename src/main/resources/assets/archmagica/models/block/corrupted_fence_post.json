@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": "archmagica:blocks/corrupted_planks"
+  }
+}

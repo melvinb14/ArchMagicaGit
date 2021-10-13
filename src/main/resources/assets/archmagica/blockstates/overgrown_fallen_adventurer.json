@@ -1,0 +1,10 @@
+ {
+	"variants": {
+		"facing=north": { "model": "archmagica:block/overgrown_fallen_adventurer" },
+		"facing=south": { "model": "archmagica:block/overgrown_fallen_adventurer", "y": 180},
+		"facing=east": { "model": "archmagica:block/overgrown_fallen_adventurer", "y": 270 },
+		"facing=west": { "model": "archmagica:block/overgrown_fallen_adventurer", "y": 90}
+
+	}
+}
+

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "archmagica:crimsonsteel_ingot"
+        }
+    ],
+    "result": {
+        "item": "archmagica:crimsonsteel_nugget",
+        "count": 9
+    }
+}
